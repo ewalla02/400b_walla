@@ -1,0 +1,6 @@
+# ASTR 400B Lecture 3 in-class Assignment
+# Emily Walla
+# January 23 2020
+# Part of a test to add, commit, push and revert changes
+
+Lecture 3 test
