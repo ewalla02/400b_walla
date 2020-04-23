@@ -38,5 +38,5 @@ def Read(filename):
     data = np.genfromtxt(filename, dtype=None, names=True, skip_header=3)
     
     #return the desired outputs
-    return value, number, data
+    return time, number, data
 
